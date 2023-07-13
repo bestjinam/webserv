@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "af0b8035a5be0132",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d58b183a5d57006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a96d13311f89ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3329c54289864e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb3c5ad3c04f4a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c4f9d5489f6acb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb70dcf2effe3695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ee0a75d4e5a50a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "696fb8f777a84fe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "730ace953612e899",
+    "type": "split",
+    "children": [
+      {
+        "id": "0089b8cd9014a9f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d61a0b6173dd16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/Web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b390c8d2c42aced",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/Web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be3b9f5cffafa9be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "180af97eee436786",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/Web.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7a96d13311f89ff",
+  "lastOpenFiles": [
+    "image/Screen Shot 2023-07-06 at 6.22.22 PM.png",
+    "Study/Web.md",
+    "Screen Shot 2023-07-06 at 6.22.22 PM.png",
+    "image",
+    "Untitled.canvas",
+    "Study/Untitled 1.md",
+    "Study"
+  ]
+}
